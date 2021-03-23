@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React from "react";
 import { GiSharpSmile } from "react-icons/gi";
 import { FaCouch } from "react-icons/fa";
 import { FcSportsMode } from "react-icons/fc";
